@@ -11,8 +11,8 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 03  | Types of Machine Learning for Beginners                                             | [YouTube](https://youtu.be/81ymPYEtFOw) | [README.md](./DAY-03/README.md) | [Files](./DAY-03/) |
 | 04  | Batch Machine Learning                                                              | [YouTube](https://youtu.be/nPrhFxEuTYU) | [README.md](./DAY-04/README.md) | [Files](./DAY-04/) |
 | 05  | Online Machine Learning                                                             | [YouTube](https://youtu.be/3oOipgCbLIk) | [README.md](./DAY-05/README.md) | [Files](./DAY-05/) |
-| 06  |                                                                                     |                                         |                                 |                    |
-| 07  |                                                                                     |                                         |                                 |                    |
+| 06  | Instance-Based Vs Model-Based Learning                                              | [YouTube](https://youtu.be/ntAOq1ioTKo) | [README.md](./DAY-06/README.md) | [Files](./DAY-06/) |
+| 07  | Challenges in Machine Learning                                                      | [YouTube](https://youtu.be/WGUNAJki2S4) | [README.md](./DAY-07/README.md) | [Files](./DAY-07/) |
 | 08  |                                                                                     |                                         |                                 |                    |
 | 09  |                                                                                     |                                         |                                 |                    |
 | 10  |                                                                                     |                                         |                                 |                    |
