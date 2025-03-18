@@ -13,7 +13,7 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 05  | Online Machine Learning                                                             | [YouTube](https://youtu.be/3oOipgCbLIk) | [README.md](./DAY-05/README.md) | [Files](./DAY-05/) |
 | 06  | Instance-Based Vs Model-Based Learning                                              | [YouTube](https://youtu.be/ntAOq1ioTKo) | [README.md](./DAY-06/README.md) | [Files](./DAY-06/) |
 | 07  | Challenges in Machine Learning                                                      | [YouTube](https://youtu.be/WGUNAJki2S4) | [README.md](./DAY-07/README.md) | [Files](./DAY-07/) |
-| 08  |                                                                                     |                                         |                                 |                    |
+| 08  | Application of Machine Learning                                                     | [YouTube](https://youtu.be/UZio8TcTMrI) | [README.md](./DAY-08/README.md) | [Files](./DAY-08/) |
 | 09  |                                                                                     |                                         |                                 |                    |
 | 10  |                                                                                     |                                         |                                 |                    |
 | 11  |                                                                                     |                                         |                                 |                    |
