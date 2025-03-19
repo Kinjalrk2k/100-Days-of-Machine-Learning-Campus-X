@@ -16,7 +16,7 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 08  | Application of Machine Learning                                                     | [YouTube](https://youtu.be/UZio8TcTMrI) | [README.md](./DAY-08/README.md) | [Files](./DAY-08/) |
 | 09  | Machine Learning Development Life Cycle                                             | [YouTube](https://youtu.be/iDbhQGz_rEo) | [README.md](./DAY-09/README.md) | [Files](./DAY-09/) |
 | 10  | Data Science Job Roles                                                              | [YouTube](https://youtu.be/93rKZs0MkgU) | [README.md](./DAY-10/README.md) | [Files](./DAY-10/) |
-| 11  |                                                                                     |                                         |                                 |                    |
+| 11  | What are Tensors?                                                                   | [YouTube](https://youtu.be/vVhD2EyS41Y) | [README.md](./DAY-11/README.md) | [Files](./DAY-11/) |
 | 12  | Setting up Development Enviornment                                                  | [YouTube](https://youtu.be/82P5N2m41jE) | [README.md](./DAY-12/README.md) | [Files](./DAY-12/) |
 | 13  | End to End Toy Project                                                              | [YouTube](https://youtu.be/dr7z7a_8lQw) | [README.md](./DAY-13/README.md) | [Files](./DAY-13/) |
 | 14  |                                                                                     |                                         |                                 |                    |
