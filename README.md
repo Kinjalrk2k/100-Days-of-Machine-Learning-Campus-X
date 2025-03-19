@@ -17,7 +17,7 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 09  | Machine Learning Development Life Cycle                                             | [YouTube](https://youtu.be/iDbhQGz_rEo) | [README.md](./DAY-09/README.md) | [Files](./DAY-09/) |
 | 10  | Data Science Job Roles                                                              | [YouTube](https://youtu.be/93rKZs0MkgU) | [README.md](./DAY-10/README.md) | [Files](./DAY-10/) |
 | 11  |                                                                                     |                                         |                                 |                    |
-| 12  |                                                                                     |                                         |                                 |                    |
+| 12  | Setting up Development Enviornment                                                  | [YouTube](https://youtu.be/82P5N2m41jE) | [README.md](./DAY-12/README.md) | [Files](./DAY-12/) |
 | 13  | End to End Toy Project                                                              | [YouTube](https://youtu.be/dr7z7a_8lQw) | [README.md](./DAY-13/README.md) | [Files](./DAY-13/) |
 | 14  |                                                                                     |                                         |                                 |                    |
 | 15  | Working with CSV files                                                              | [YouTube](https://youtu.be/a_XrmKlaGTs) | [README.md](./DAY-15/README.md) | [Files](./DAY-15/) |
