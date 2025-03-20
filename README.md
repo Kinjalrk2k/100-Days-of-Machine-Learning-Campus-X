@@ -51,3 +51,4 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 43  | Outlier Detection and Removal using the IQR Method             | [YouTube](https://youtu.be/Ccv1-W5ilak) | [README.md](./DAY-43/README.md) | [Files](./DAY-43/) |
 | 44  | Outlier Detection using the Percentile Method                  | [YouTube](https://youtu.be/bcXA4CqRXvM) | [README.md](./DAY-44/README.md) | [Files](./DAY-44/) |
 | 45  | Feature Construction & Feature Splitting                       | [YouTube](https://youtu.be/ma-h30PoFms) | [README.md](./DAY-45/README.md) | [Files](./DAY-45/) |
+| 45  | Curse of Dimensionality                                        | [YouTube](https://youtu.be/ToGuhynu-No) | [README.md](./DAY-46/README.md) | [Files](./DAY-46/) |
