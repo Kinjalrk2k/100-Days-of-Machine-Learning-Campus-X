@@ -52,3 +52,4 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 44  | Outlier Detection using the Percentile Method                  | [YouTube](https://youtu.be/bcXA4CqRXvM) | [README.md](./DAY-44/README.md) | [Files](./DAY-44/) |
 | 45  | Feature Construction & Feature Splitting                       | [YouTube](https://youtu.be/ma-h30PoFms) | [README.md](./DAY-45/README.md) | [Files](./DAY-45/) |
 | 45  | Curse of Dimensionality                                        | [YouTube](https://youtu.be/ToGuhynu-No) | [README.md](./DAY-46/README.md) | [Files](./DAY-46/) |
+| 45  | Principle Component Analysis (PCA) - Geometric Intuition       | [YouTube](https://youtu.be/iRbsBi5W0-c) | [README.md](./DAY-47/README.md) | [Files](./DAY-47/) |
