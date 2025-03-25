@@ -53,3 +53,4 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 45  | Feature Construction & Feature Splitting                       | [YouTube](https://youtu.be/ma-h30PoFms) | [README.md](./DAY-45/README.md) | [Files](./DAY-45/) |
 | 46  | Curse of Dimensionality                                        | [YouTube](https://youtu.be/ToGuhynu-No) | [README.md](./DAY-46/README.md) | [Files](./DAY-46/) |
 | 47  | Principle Component Analysis (PCA) - Geometric Intuition       | [YouTube](https://youtu.be/iRbsBi5W0-c) | [README.md](./DAY-47/README.md) | [Files](./DAY-47/) |
+| 47  | Principle Component Analysis (PCA) - Problem Formulation       | [YouTube](https://youtu.be/tXXnxjj2wM4) | [README.md](./DAY-48/README.md) | [Files](./DAY-48/) |
