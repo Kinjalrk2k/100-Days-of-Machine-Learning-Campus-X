@@ -55,3 +55,4 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 47  | Principle Component Analysis (PCA) - Geometric Intuition            | [YouTube](https://youtu.be/iRbsBi5W0-c) | [README.md](./DAY-47/README.md) | [Files](./DAY-47/) |
 | 48  | Principle Component Analysis (PCA) - Problem Formulation            | [YouTube](https://youtu.be/tXXnxjj2wM4) | [README.md](./DAY-48/README.md) | [Files](./DAY-48/) |
 | 49  | Principle Component Analysis (PCA) - Code Example and Visualization | [YouTube](https://youtu.be/tofVCUDrg4M) | [README.md](./DAY-49/README.md) | [Files](./DAY-49/) |
+| 50  | Simple Linear Regression - Intuition                                | [YouTube](https://youtu.be/UZPfbG0jNec) | [README.md](./DAY-50/README.md) | [Files](./DAY-50/) |
