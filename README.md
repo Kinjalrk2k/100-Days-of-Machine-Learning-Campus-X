@@ -57,3 +57,4 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 49  | Principle Component Analysis (PCA) - Code Example and Visualization | [YouTube](https://youtu.be/tofVCUDrg4M) | [README.md](./DAY-49/README.md) | [Files](./DAY-49/) |
 | 50  | Simple Linear Regression - Intuition                                | [YouTube](https://youtu.be/UZPfbG0jNec) | [README.md](./DAY-50/README.md) | [Files](./DAY-50/) |
 | 51  | Simple Linear Regression - Mathematical Formulation                 | [YouTube](https://youtu.be/dXHIDLPKdmA) | [README.md](./DAY-51/README.md) | [Files](./DAY-51/) |
+| 52  | Regression Metrics                                                  | [YouTube](https://youtu.be/Ti7c-Hz7GSM) | [README.md](./DAY-52/README.md) | [Files](./DAY-52/) |
