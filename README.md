@@ -61,3 +61,4 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 53  | Multiple Linear Regression - Geometric Intuition                    | [YouTube](https://youtu.be/ashGekqstl8) | [README.md](./DAY-53/README.md) | [Files](./DAY-53/) |
 | 54  | Multiple Linear Regression - Mathematical Formulation               | [YouTube](https://youtu.be/NU37mF5q8VE) | [README.md](./DAY-54/README.md) | [Files](./DAY-54/) |
 | 55  | Multiple Linear Regression - Code From Scratch                      | [YouTube](https://youtu.be/VmZWXzxmNrE) | [README.md](./DAY-55/README.md) | [Files](./DAY-55/) |
+| 56  | Gradient Descent From Scratch                                       | [YouTube](https://youtu.be/ORyfPJypKuU) | [README.md](./DAY-56/README.md) | [Files](./DAY-56/) |
