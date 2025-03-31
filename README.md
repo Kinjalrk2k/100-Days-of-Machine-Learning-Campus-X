@@ -62,3 +62,4 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 54  | Multiple Linear Regression - Mathematical Formulation               | [YouTube](https://youtu.be/NU37mF5q8VE) | [README.md](./DAY-54/README.md) | [Files](./DAY-54/) |
 | 55  | Multiple Linear Regression - Code From Scratch                      | [YouTube](https://youtu.be/VmZWXzxmNrE) | [README.md](./DAY-55/README.md) | [Files](./DAY-55/) |
 | 56  | Gradient Descent From Scratch                                       | [YouTube](https://youtu.be/ORyfPJypKuU) | [README.md](./DAY-56/README.md) | [Files](./DAY-56/) |
+| 57  | Batch Gradient Descent                                              | [YouTube](https://youtu.be/Jyo53pAyVAM) | [README.md](./DAY-57/README.md) | [Files](./DAY-57/) |
