@@ -66,4 +66,5 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 58  | Stochastic Gradient Descent                                         | [YouTube](https://youtu.be/V7KBAa_gh4c) | [README.md](./DAY-58/README.md) | [Files](./DAY-58/) |
 | 59  | Mini-Batch Gradient Descent                                         | [YouTube](https://youtu.be/_scscQ4HVTY) | [README.md](./DAY-59/README.md) | [Files](./DAY-59/) |
 | 60  | Polynomial Regression                                               | [YouTube](https://youtu.be/BNWLf3cKdbQ) | [README.md](./DAY-60/README.md) | [Files](./DAY-60/) |
-| 60  | Bias Variance Trade-off                                             | [YouTube](https://youtu.be/74DU02Fyrhk) | [README.md](./DAY-61/README.md) | [Files](./DAY-61/) |
+| 61  | Bias Variance Trade-off                                             | [YouTube](https://youtu.be/74DU02Fyrhk) | [README.md](./DAY-61/README.md) | [Files](./DAY-61/) |
+| 62  | Ridge Regression - Geometric Intuition                              | [YouTube](https://youtu.be/aEow1QoTLo0) | [README.md](./DAY-62/README.md) | [Files](./DAY-62/) |
