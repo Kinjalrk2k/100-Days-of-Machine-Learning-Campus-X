@@ -68,3 +68,4 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 60  | Polynomial Regression                                               | [YouTube](https://youtu.be/BNWLf3cKdbQ) | [README.md](./DAY-60/README.md) | [Files](./DAY-60/) |
 | 61  | Bias Variance Trade-off                                             | [YouTube](https://youtu.be/74DU02Fyrhk) | [README.md](./DAY-61/README.md) | [Files](./DAY-61/) |
 | 62  | Ridge Regression - Geometric Intuition                              | [YouTube](https://youtu.be/aEow1QoTLo0) | [README.md](./DAY-62/README.md) | [Files](./DAY-62/) |
+| 62  | Ridge Regression - Mathematical Formulation                         | [YouTube](https://youtu.be/oDlZBQjk_3A) | [README.md](./DAY-63/README.md) | [Files](./DAY-63/) |
