@@ -72,3 +72,4 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 64  | Ridge Regression - Gradient Descent                                 | [YouTube](https://youtu.be/Fci_wwMp8G8) | [README.md](./DAY-64/README.md) | [Files](./DAY-64/) |
 | 65  | Ridge Regression - 5 Key Points                                     | [YouTube](https://youtu.be/8osKeShYVRQ) | [README.md](./DAY-65/README.md) | [Files](./DAY-65/) |
 | 66  | Lasso Regression - Intuition                                        | [YouTube](https://youtu.be/HLF4bFbBgwk) | [README.md](./DAY-66/README.md) | [Files](./DAY-66/) |
+| 67  | Sprsity in Lasso Regression                                         | [YouTube](https://youtu.be/FN4aZPIAfI4) | [README.md](./DAY-67/README.md) | [Files](./DAY-67/) |
