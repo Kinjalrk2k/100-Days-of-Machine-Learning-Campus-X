@@ -70,3 +70,4 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 62  | Ridge Regression - Geometric Intuition                              | [YouTube](https://youtu.be/aEow1QoTLo0) | [README.md](./DAY-62/README.md) | [Files](./DAY-62/) |
 | 63  | Ridge Regression - Mathematical Formulation                         | [YouTube](https://youtu.be/oDlZBQjk_3A) | [README.md](./DAY-63/README.md) | [Files](./DAY-63/) |
 | 64  | Ridge Regression - Gradient Descent                                 | [YouTube](https://youtu.be/Fci_wwMp8G8) | [README.md](./DAY-64/README.md) | [Files](./DAY-64/) |
+| 65  | Ridge Regression - 5 Key Points                                     | [YouTube](https://youtu.be/8osKeShYVRQ) | [README.md](./DAY-65/README.md) | [Files](./DAY-65/) |
