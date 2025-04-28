@@ -74,3 +74,5 @@ YouTube Playlist - [100 Days of Machine Learning | YouTube](https://youtube.com/
 | 66  | Lasso Regression - Intuition                                        | [YouTube](https://youtu.be/HLF4bFbBgwk) | [README.md](./DAY-66/README.md) | [Files](./DAY-66/) |
 | 67  | Sparsity in Lasso Regression                                        | [YouTube](https://youtu.be/FN4aZPIAfI4) | [README.md](./DAY-67/README.md) | [Files](./DAY-67/) |
 | 68  | ElasticNet                                                          | [YouTube](https://youtu.be/2g2DBkFhTTY) | [README.md](./DAY-68/README.md) | [Files](./DAY-68/) |
+| 69  | Logistic Regression - Perceptron Trick                              | [YouTube](https://youtu.be/XNXzVfItWGY) | [README.md](./DAY-69/README.md) | [Files](./DAY-69/) |
+| 70  | Logistic Regression - Perceptron Trick Code                         | [YouTube](https://youtu.be/tLezwPKvPK4) | [README.md](./DAY-70/README.md) | [Files](./DAY-70/) |
